@@ -1,8 +1,8 @@
 # Guiding Principles for the Elara Project
 
-## Free Software, $1 patent
+## Free Software
 
-All of the source code relating to Project Elara will be open-sourced and provided freely to anyone who wishes to obtain a copy of it. Financial considerations will not be taken into account, and all technologies developed directly or indirectly from the project will be subject to only a symbolic $1 patent, to ensure that the project remains universally open and accessible. I will not seek to profit from this project in any way.
+All of the source code relating to Project Elara will be open-sourced and provided freely to anyone who wishes to obtain a copy of it. Financial considerations will not be taken into account, and all technologies developed directly or indirectly from the project will be unpatented, to ensure that the project remains universally open and accessible. I will not seek to profit from this project in any way.
 
 ## Open to all
 
